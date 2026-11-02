@@ -38,7 +38,7 @@
 
 ```sh
 # 从 npm
-dsh plugin --profile web add dsh-plugin-style
+dsh plugin --profile web add @flyingludens/dsh-plugin-style
 
 # 或直接从 GitHub（lib/ 为预构建产物，安装时不执行任何构建脚本）
 dsh plugin --profile web add github:flyingludens/dsh-plugin-style

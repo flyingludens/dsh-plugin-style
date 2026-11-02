@@ -38,7 +38,7 @@ Style sources: [uiprompt.dev web-styles](https://www.uiprompt.dev/zh/web-styles)
 
 ```sh
 # from npm
-dsh plugin --profile web add dsh-plugin-style
+dsh plugin --profile web add @flyingludens/dsh-plugin-style
 
 # or straight from GitHub (prebuilt lib/ committed — no build scripts run)
 dsh plugin --profile web add github:flyingludens/dsh-plugin-style

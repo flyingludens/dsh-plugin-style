@@ -1,5 +1,5 @@
 {
-  "name": "dsh-plugin-style",
+  "name": "@flyingludens/dsh-plugin-style",
   "description": "Multi-style skin collection for the DeepSeek Harness (dsh) web GUI. Each skin registers a theme (Settings → Appearance / sidebar-foot picker) plus scoped decoration CSS keyed to its active state.",
   "version": "0.2.3",
   "type": "module",
@@ -29,6 +29,9 @@
   },
   "author": "flyingludens",
   "license": "MIT",
+  "publishConfig": {
+    "access": "public"
+  },
   "engines": {
     "node": ">=18"
   },
