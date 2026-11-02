@@ -41,7 +41,7 @@ Style sources: [uiprompt.dev web-styles](https://www.uiprompt.dev/zh/web-styles)
 dsh plugin --profile web add dsh-plugin-style
 
 # or straight from GitHub (prebuilt lib/ committed — no build scripts run)
-dsh plugin --profile web add github:NonchalantLudens/dsh-plugin-style
+dsh plugin --profile web add github:flyingludens/dsh-plugin-style
 ```
 
 Restart `dsh web`. Click the gear icon at the sidebar foot to pick a skin; the default style restores the stock look. Skins also appear under Settings → Appearance. Settings → General carries the same picker plus a switch that shows or hides the foot button.

@@ -41,7 +41,7 @@
 dsh plugin --profile web add dsh-plugin-style
 
 # 或直接从 GitHub（lib/ 为预构建产物，安装时不执行任何构建脚本）
-dsh plugin --profile web add github:NonchalantLudens/dsh-plugin-style
+dsh plugin --profile web add github:flyingludens/dsh-plugin-style
 ```
 
 重启 `dsh web`。点侧边栏底部的齿轮图标切换皮肤；「关闭皮肤」恢复原生外观。皮肤同样出现在 设置 → 外观 下拉里。设置 → 通用 里也有同一个选择器和显示/隐藏该按钮的开关。
